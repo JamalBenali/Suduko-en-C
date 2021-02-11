@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1575820142 source:c:\users\jamal benali\desktop\suduk\jaja\projet_suduko\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoko.h"
+
+1577277162 c:\users\jamal benali\desktop\suduk\jaja\projet_suduko\sudoko.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1577277453 source:c:\users\jamal benali\desktop\suduk\jaja\projet_suduko\sudoko.c
+	"sudoko.h"
+
+1577277718 source:c:\users\jamal benali\desktop\suduk\jaja\projet_suduko\gestiondefichier.c
+	"sudoko.h"
+
+1578604147 source:c:\users\jamal benali\desktop\jaja\projet_suduko\gestiondefichier.c
+	"sudoko.h"
+
+1578662060 c:\users\jamal benali\desktop\jaja\projet_suduko\sudoko.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1578574453 source:c:\users\jamal benali\desktop\jaja\projet_suduko\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoko.h"
+
+1578266619 source:c:\users\jamal benali\desktop\jaja\projet_suduko\sudoko.c
+	"sudoko.h"
+
